@@ -1,0 +1,9 @@
+venv/
+
+db.sqlite3
+
+0001_initial.py
+
+__pycache__/
+
+.idea/
